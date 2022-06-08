@@ -133,7 +133,7 @@ h4 {
 footer .glyphicon {
   font-size: 20px;
   margin-bottom: 20px;
-  color: #f4511e;
+  color: #c9684b;
 }
 .slideanim {
   visibility: hidden;
@@ -145,6 +145,10 @@ footer .glyphicon {
   -webkit-animation-duration: 1s;
   visibility: visible;
 }
+.footer-img {
+  width: 20rem;
+}
+
 @keyframes slide {
   0% {
     opacity: 0;
