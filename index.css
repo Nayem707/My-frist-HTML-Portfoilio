@@ -148,6 +148,9 @@ footer .glyphicon {
 .footer-img {
   width: 20rem;
 }
+.cv-down {
+  color: #080808;
+}
 
 @keyframes slide {
   0% {
