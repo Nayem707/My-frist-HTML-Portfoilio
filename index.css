@@ -149,7 +149,10 @@ footer .glyphicon {
   width: 20rem;
 }
 .cv-down {
-  color: #080808;
+  color: #f9efef;
+}
+.cv-down:hover {
+  color: #87fb73;
 }
 
 @keyframes slide {
